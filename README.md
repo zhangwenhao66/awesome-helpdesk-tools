@@ -61,6 +61,8 @@ Maintained by [Agent Whispers](https://www.agentwhispers.com) — independent Sa
 
 ## Resources
 
+- [CommsAdvisor](https://commsadvisor.com/) - Independent explainers and buying guides for help desk, VoIP, and business communications software.
+
 - [https://www.agentwhispers.com](https://www.agentwhispers.com) — Independent reviews, comparisons, and pricing calculators
 - [https://www.agentwhispers.com/pricing-calculator](https://www.agentwhispers.com/pricing-calculator) — Interactive helpdesk cost comparison
 - [https://www.agentwhispers.com/stack-recommender](https://www.agentwhispers.com/stack-recommender) — Personalized tool recommendation wizard
