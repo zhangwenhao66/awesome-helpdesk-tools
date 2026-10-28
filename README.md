@@ -66,6 +66,7 @@ Maintained by [Agent Whispers](https://www.agentwhispers.com) — independent Sa
 - [https://www.agentwhispers.com/stack-recommender](https://www.agentwhispers.com/stack-recommender) — Personalized tool recommendation wizard
 - [G2 Helpdesk Category](https://www.g2.com/categories/help-desk) — User reviews and ratings
 - [Capterra Help Desk Software](https://www.capterra.com/help-desk-software/) — Verified user reviews
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 
 ---
 
